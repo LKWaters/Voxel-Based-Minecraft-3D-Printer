@@ -9,4 +9,4 @@ The idea is that I wanted to treat minecraft as the "print bed" for 3D objects s
 
 I did this by creating a tkinter UI that allows one to upload the file, choose the files start coordinates, and preview the build.
 
-![https://i.gyazo.com/6ad891a3ad707689da3a879267f5910d.png] ![https://i.gyazo.com/c632da7e711cbe6f4267ea869641189c.png]
+![](https://i.gyazo.com/6ad891a3ad707689da3a879267f5910d.png) ![](https://i.gyazo.com/c632da7e711cbe6f4267ea869641189c.png)
